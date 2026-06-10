@@ -100,6 +100,7 @@
 |--------|------|----------|----------|
 | `1_reciept.pdf` | 文本 PDF | 机票正式收据（含票号、金额） | 交通费 |
 | `1_payment_record.pdf` | 截图 | 信用卡扣款记录（对应机票） | 交通费凭证 |
+| `1_boarding_pass.pdf` | 截图 | **登机牌**（电子登机牌 App 截图或纸质登机牌扫描件；需可见乘客姓名、航班号、出发/到达日期与时间） | 交通费（实际乘机证明） |
 | `2_registration-receipt.pdf` | 文本 PDF | 会议注册费官方收据 | 注册费 |
 | `2_Payment_record.pdf` | 文本 PDF | 信用卡账单，显示注册费扣款记录 | 注册费凭证 |
 | `3_hotel_receipt.pdf` | 文本 PDF | 酒店收据（含入住/退房日期、金额） | 住宿费 |
@@ -108,6 +109,8 @@
 | `5_first_page.pdf` | 截图 | 论文接收通知（与申请阶段 `8_Decision.pdf` 同类） | 支持材料 |
 
 > **原则：** 每一项可报销支出，尽量提供 **「收据 + 付款记录」** 两套材料。信用卡账单 / App 截图需能对应到具体商户与金额。
+>
+> **机票补充：** 除收据与付款记录外，请另附 **`1_boarding_pass.pdf`（登机牌）**，用于证明你已实际乘机出行。可在值机后从航司 App、电子登机牌邮件或机场自助值机凭条截图/扫描保存；若为多段航程，将各段登机牌合并为一个 PDF。示例文件夹中该文件尚未放入，出行后请自行补充。
 
 ---
 
@@ -139,6 +142,7 @@ CUHK_IE_Reimbrusement_guideline/
         └── material_after/      # 出行后 · 邮件提交给 Fandy
             ├── 1_reciept.pdf
             ├── 1_payment_record.pdf
+            ├── 1_boarding_pass.pdf   # 登机牌（示例待补充）
             ├── 2_registration-receipt.pdf
             ├── 2_Payment_record.pdf
             ├── 3_hotel_receipt.pdf
@@ -163,6 +167,7 @@ CUHK_IE_Reimbrusement_guideline/
 | 会议前 ≥3 周（**仅亲自出席**） | 整理 `material_before/` 并**纸质打印**提交给 **Connie**；含 Conference Grant、Seminar Presentation（+ Accommodation 如需要） |
 | 会议前 1 周（**仅亲自出席**） | 约教室，完成系内 mock presentation，发送邀请邮件，录像存档 |
 | 注册/购票时 | 保留所有收据与信用卡付款记录 |
+| 值机/乘机时 | 保存登机牌截图或扫描件（用于 `1_boarding_pass.pdf`） |
 | 会议结束后 | 整理 `material_after/` 并**邮件**提交给 **Fandy** 完成报销 |
 
 **通用注意：**

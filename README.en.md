@@ -100,6 +100,7 @@ Example folder: `material_after/`
 |------|------|-------------|------------------|
 | `1_reciept.pdf` | Text PDF | Official flight receipt (e-ticket number and amount) | Transportation |
 | `1_payment_record.pdf` | Screenshot | Credit card charge matching the flight | Transportation proof |
+| `1_boarding_pass.pdf` | Screenshot | **Boarding pass** (airline app screenshot or scanned paper pass; must show passenger name, flight number, departure/arrival date and time) | Transportation (proof of travel) |
 | `2_registration-receipt.pdf` | Text PDF | Official conference registration receipt | Registration fee |
 | `2_Payment_record.pdf` | Text PDF | Credit card statement showing the registration charge | Registration proof |
 | `3_hotel_receipt.pdf` | Text PDF | Hotel receipt (check-in/out dates and amount) | Accommodation |
@@ -108,6 +109,8 @@ Example folder: `material_after/`
 | `5_first_page.pdf` | Screenshot | Acceptance notification (same type as `8_Decision.pdf`) | Supporting doc |
 
 > **Rule of thumb:** For each reimbursable item, provide **receipt + payment record**. Card statements or app screenshots must clearly show merchant and amount.
+>
+> **Flights:** In addition to receipt and payment record, attach **`1_boarding_pass.pdf`** to show you actually traveled. Save screenshots from the airline app, e-boarding email, or airport kiosk after check-in; merge multi-leg passes into one PDF. The example folder does not include this file yet—add it yourself after the trip.
 
 ---
 
@@ -139,6 +142,7 @@ CUHK_IE_Reimbrusement_guideline/
         └── material_after/      # Post-trip · email to Fandy
             ├── 1_reciept.pdf
             ├── 1_payment_record.pdf
+            ├── 1_boarding_pass.pdf   # boarding pass (example TBD)
             ├── 2_registration-receipt.pdf
             ├── 2_Payment_record.pdf
             ├── 3_hotel_receipt.pdf
@@ -163,6 +167,7 @@ CUHK_IE_Reimbrusement_guideline/
 | ≥3 weeks before trip (**in-person only**) | Prepare `material_before/` and submit **printed copies** to **Connie** (Conference Grant, Seminar Presentation, + Accommodation if needed) |
 | 1 week before trip (**in-person only**) | Book a room, complete mock presentation, send invitations, archive recording |
 | When registering / booking | Keep all receipts and card payment records |
+| At check-in / boarding | Save boarding pass screenshot or scan (for `1_boarding_pass.pdf`) |
 | After conference | Prepare `material_after/` and **email** to **Fandy** for reimbursement |
 
 **General reminders:**
