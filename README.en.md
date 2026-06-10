@@ -4,7 +4,7 @@
 
 > **Important: Confirm whether you will attend in person**
 >
-> - **Attending in person:** Prepare `material_before/` and **submit printed copies to Connie** before the trip (Conference Grant application, etc.); after the conference, prepare `material_after/` and **email to Fandy** for reimbursement.
+> - **Attending in person:** Prepare `material_before/` and **submit printed copies to Connie** before the trip (Conference Grant application, etc.); submit an **On Leave** application on **myCUHK** (covering your dates away from Hong Kong); after the conference, prepare `material_after/` and **email to Fandy** for reimbursement.
 > - **Not attending in person** (e.g., proceedings-only, virtual registration only): **Do not submit `material_before/`**; keep all payment records and, after the conference, prepare `material_after/` and **email to Fandy** only.
 
 | Folder | Submit to | When required |
@@ -68,7 +68,8 @@ Example folder: `material_before/`
 **Submit to:** **Connie**  
 **Submission method:** Printed copies  
 **When required:** Only if you **attend in person**; if not, skip this section and go to [Post-Trip Materials](#post-trip-materials-required-for-all-reimbursement).  
-**Purpose:** Attach when submitting the Conference Grant application. Numeric prefixes indicate suggested ordering.
+**Purpose:** Attach when submitting the Conference Grant application. Numeric prefixes indicate suggested ordering.  
+**Administrative requirement:** Before leaving Hong Kong, submit an **On Leave** application on **myCUHK** covering your actual away dates (supervisor approval is usually required; follow the system instructions).
 
 | File | Type | Description | Checklist item |
 |------|------|-------------|----------------|
@@ -164,14 +165,15 @@ CUHK_IE_Reimbrusement_guideline/
 | When | Action |
 |------|--------|
 | After paper acceptance | Save acceptance email screenshot; export abstract |
-| ≥3 weeks before trip (**in-person only**) | Prepare `material_before/` and submit **printed copies** to **Connie** (Conference Grant, Seminar Presentation, + Accommodation if needed) |
-| 1 week before trip (**in-person only**) | Book a room, complete mock presentation, send invitations, archive recording |
+| ≥3 weeks before trip (**in-person only**) | Prepare `material_before/` and submit **printed copies** to **Connie** (Conference Grant, Seminar Presentation, + Accommodation if needed); submit **On Leave** on **myCUHK** |
+| 1 week before trip (**in-person only**) | Confirm On Leave is approved; book a room, complete mock presentation, send invitations, archive recording |
 | When registering / booking | Keep all receipts and card payment records |
 | At check-in / boarding | Save boarding pass screenshot or scan (for `1_boarding_pass.pdf`) |
 | After conference | Prepare `material_after/` and **email** to **Fandy** for reimbursement |
 
 **General reminders:**
 
+- **On Leave:** If traveling in person, submit an On Leave application on **myCUHK** covering your away dates; confirm approval before departure
 - Airfare: **2 economy quotations** for application (quotations should exceed the actual reimbursement amount); **actual ticket receipt** for reimbursement
 - Registration: keep official receipt + bank/card statement
 - Accommodation: IE subsidy capped at 5 nights / HK$5,000; supervisor pre-approval required
@@ -183,6 +185,7 @@ CUHK_IE_Reimbrusement_guideline/
 
 - Pre-trip materials (`material_before/`): **printed copies** to **Connie**
 - Post-trip reimbursement (`material_after/`): **email** to **Fandy**
+- **On Leave application (in-person only):** [myCUHK](https://my.cuhk.edu.hk/)
 - IE General Office emails (seminar invitations): `ga@ie.cuhk.edu.hk`, `teaching@ie.cuhk.edu.hk`
 - Room booking (for paper rehearsal reservation): https://rbsie1.ie.cuhk.edu.hk/
 - CLEAR / IPL records: https://apps.itsc.cuhk.edu.hk/clear/

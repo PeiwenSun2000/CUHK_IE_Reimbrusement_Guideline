@@ -4,7 +4,7 @@
 
 > **重要：请先确认你是否亲自出席会议**
 >
-> - **会亲自到场**：需在出行前整理 `material_before/` 材料，**纸质打印提交给 Connie**（Conference Grant 申请等）；会议结束后再整理 `material_after/` 材料，**邮件提交给 Fandy** 完成报销。
+> - **会亲自到场**：需在出行前整理 `material_before/` 材料，**纸质打印提交给 Connie**（Conference Grant 申请等）；在 **myCUHK** 提交 **On Leave** 申请（覆盖离港参会日期）；会议结束后再整理 `material_after/` 材料，**邮件提交给 Fandy** 完成报销。
 > - **不会亲自到场**（如 proceedings-only、仅虚拟注册等）：**无需提交 `material_before/`**；保留各项支出凭证，待会议结束后直接整理 `material_after/` 材料，**邮件提交给 Fandy** 即可。
 
 | 材料文件夹 | 提交对象 | 适用情况 |
@@ -68,7 +68,8 @@
 **提交对象：** **Connie**  
 **提交方式：** 纸质打印  
 **适用情况：** 仅当你**亲自出席会议**时需要提交；若不出席，跳过本节，直接参见 [出行后材料](#出行后材料-所有形式报销都需要提交)。  
-**用途：** 提交 Conference Grant 申请时一并附上。文件名前的数字表示推荐排序。
+**用途：** 提交 Conference Grant 申请时一并附上。文件名前的数字表示推荐排序。  
+**行政手续：** 离港参会前，须在 **myCUHK** 提交 **On Leave** 申请，请假日期应覆盖实际离港至返港期间（通常需导师审批；以系统要求为准）。
 
 | 文件名 | 类型 | 内容简介 | 对应 Checklist 条目 |
 |--------|------|----------|---------------------|
@@ -164,14 +165,15 @@ CUHK_IE_Reimbrusement_guideline/
 | 时间节点 | 事项 |
 |----------|------|
 | 论文接收后 | 立即保存接收邮件截图；下载/打印摘要 |
-| 会议前 ≥3 周（**仅亲自出席**） | 整理 `material_before/` 并**纸质打印**提交给 **Connie**；含 Conference Grant、Seminar Presentation（+ Accommodation 如需要） |
-| 会议前 1 周（**仅亲自出席**） | 约教室，完成系内 mock presentation，发送邀请邮件，录像存档 |
+| 会议前 ≥3 周（**仅亲自出席**） | 整理 `material_before/` 并**纸质打印**提交给 **Connie**；含 Conference Grant、Seminar Presentation（+ Accommodation 如需要）；在 **myCUHK** 提交 **On Leave** 申请 |
+| 会议前 1 周（**仅亲自出席**） | 确认 On Leave 已获批；约教室，完成系内 mock presentation，发送邀请邮件，录像存档 |
 | 注册/购票时 | 保留所有收据与信用卡付款记录 |
 | 值机/乘机时 | 保存登机牌截图或扫描件（用于 `1_boarding_pass.pdf`） |
 | 会议结束后 | 整理 `material_after/` 并**邮件**提交给 **Fandy** 完成报销 |
 
 **通用注意：**
 
+- **On Leave：** 亲自离港参会者须在 **myCUHK** 提交 On Leave 申请，日期覆盖离港至返港；出行前确认审批通过
 - 机票：申请时需 **2 份经济舱往返报价**（报价应高于实际报销金额）；报销时用**实际购票收据**
 - 注册费：保留官网收据 + 银行/信用卡扣款记录
 - 住宿：IE 住宿资助有 5 晚 / HK$5,000 上限；需导师事先批准
@@ -183,6 +185,7 @@ CUHK_IE_Reimbrusement_guideline/
 
 - 出行前材料（`material_before/`）：**纸质打印**提交给 **Connie**
 - 出行后报销（`material_after/`）：**邮件**提交给 **Fandy**
+- **On Leave 申请（仅亲自出席）：** [myCUHK](https://my.cuhk.edu.hk/)
 - IE 总务处相关邮箱（预演邀请）：`ga@ie.cuhk.edu.hk`、`teaching@ie.cuhk.edu.hk`
 - 房间预订(用于预定paper rehearsal)：https://rbsie1.ie.cuhk.edu.hk/
 - CLEAR / IPL 记录：https://apps.itsc.cuhk.edu.hk/clear/

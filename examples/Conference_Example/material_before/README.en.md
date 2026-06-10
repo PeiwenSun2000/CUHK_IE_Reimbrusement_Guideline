@@ -2,6 +2,8 @@
 
 Pre-trip materials example folder. Required **only for in-person attendance**. Submit **printed copies** to **Connie**.
 
+> **Administrative requirement:** Submit an **On Leave** application on **myCUHK** before leaving Hong Kong, covering your away dates.
+
 | File | Description |
 |------|-------------|
 | `0_Pricing.pdf` | Conference registration pricing screenshot |
