@@ -179,7 +179,7 @@ CUHK_IE_Reimbrusement_guideline/
 - Pre-trip materials (`material_before/`): **printed copies** to **Connie**
 - Post-trip reimbursement (`material_after/`): **email** to **Fandy**
 - IE General Office emails (seminar invitations): `ga@ie.cuhk.edu.hk`, `teaching@ie.cuhk.edu.hk`
-- Room booking: https://rbsie1.ie.cuhk.edu.hk/
+- Room booking (for paper rehearsal reservation): https://rbsie1.ie.cuhk.edu.hk/
 - CLEAR / IPL records: https://apps.itsc.cuhk.edu.hk/clear/
 
 Policies may change; always follow the latest notices from the Graduate School and IE Department. This document is an internal reference only.

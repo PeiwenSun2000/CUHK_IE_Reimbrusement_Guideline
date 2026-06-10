@@ -179,7 +179,7 @@ CUHK_IE_Reimbrusement_guideline/
 - 出行前材料（`material_before/`）：**纸质打印**提交给 **Connie**
 - 出行后报销（`material_after/`）：**邮件**提交给 **Fandy**
 - IE 总务处相关邮箱（预演邀请）：`ga@ie.cuhk.edu.hk`、`teaching@ie.cuhk.edu.hk`
-- 房间预订：https://rbsie1.ie.cuhk.edu.hk/
+- 房间预订(用于预定paper rehearsal)：https://rbsie1.ie.cuhk.edu.hk/
 - CLEAR / IPL 记录：https://apps.itsc.cuhk.edu.hk/clear/
 
 如有政策更新，以研究生院及 IE 系最新通知为准。本文档仅作内部经验整理。
