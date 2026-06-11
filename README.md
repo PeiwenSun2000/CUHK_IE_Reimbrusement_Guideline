@@ -4,7 +4,7 @@
 
 > **重要：请先确认你是否亲自出席会议**
 >
-> - **会亲自到场**：需在出行前整理 `material_before/` 材料，**纸质打印提交给 Connie**（Conference Grant 申请等）；在 **myCUHK** 提交 **On Leave** 申请（覆盖离港参会日期）；会议结束后再整理 `material_after/` 材料，**邮件提交给 Fandy** 完成报销。
+> - **会亲自到场**：需在出行前整理 `material_before/` 材料和`三份官方申请表` 材料，**纸质打印提交给 Connie**（Conference Grant 申请等）；在 **myCUHK** 提交 **On Leave** 申请（覆盖离港参会日期）；会议结束后再整理 `material_after/` 材料，**邮件提交给 Fandy** 完成报销。
 > - **不会亲自到场**（如 proceedings-only、仅虚拟注册等）：**无需提交 `material_before/`**；保留各项支出凭证，待会议结束后直接整理 `material_after/` 材料，**邮件提交给 Fandy** 即可。
 
 | 材料文件夹 | 提交对象 | 适用情况 |
